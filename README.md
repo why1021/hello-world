@@ -1,2 +1,3 @@
 # hello-world
-Just for test the use of git
+#include<iostream>
+using namespace std;
